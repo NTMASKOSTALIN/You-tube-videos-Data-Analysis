@@ -79,10 +79,7 @@ Highlighted stakeholders (creators, marketers, YouTube platform, advertisers).
 
 8. Future Work / Next Steps
    
-Add time-based trend analysis (if upload date is available).
-Apply text analytics (NLP) on titles/hashtags for deeper insights.
-Build an interactive dashboard (Power BI/Tableau).
-Extend into predictive modeling for video virality (optional).
+Future extensions could include time-based analysis, interactive dashboards, and text analytics on hashtags/titles.
 
 Insights:
 
