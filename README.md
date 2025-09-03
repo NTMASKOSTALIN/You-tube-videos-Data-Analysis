@@ -1,10 +1,16 @@
-Objectives
-The objective of this project is to analyze YouTube video data in order to uncover the key drivers of content performance and audience engagement. Specifically, the analysis seeks to:
-Identify which video categories (e.g., Gaming, Comedy, News) receive the highest engagement in terms of views, likes, and comments.
-Evaluate whether video duration or resolution influences engagement metrics.
-Explore whether video popularity can be predicted using metadata features.
-Assess whether videos with hashtags perform better than those without in terms of views, likes, and engagement rate.
-Discover which hashtags are most frequently associated with viral videos and how they contribute to content success.
+Objectives: 
+The objective of this project is to perform an end-to-end analysis of YouTube video data (17,590 rows) using Python, ensuring data accuracy, integrity, and consistency through data cleaning, feature engineering, exploratory data analysis (EDA), and visualization.
+The analysis focuses on deriving key performance indicators (KPIs) and generating actionable business insights by addressing critical questions, including:
+
+Which video categories receive the highest engagement and views?
+
+How do video duration and resolution influence engagement metrics?
+
+Which categories are consistently high-performing or underperforming?
+
+Do hashtags improve video performance, and which hashtags are most linked to viral videos?
+
+The ultimate goal is to transform raw YouTube metadata into a cleaned, structured, and insight-rich dataset, enabling content creators, marketers, and platform stakeholders to make data-driven decisions.
 
 Dataset:
 
