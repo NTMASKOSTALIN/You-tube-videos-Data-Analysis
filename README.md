@@ -1,4 +1,5 @@
 Objectives: 
+
 The objective of this project is to perform an end-to-end analysis of YouTube video data (17,590 rows) using Python, ensuring data accuracy, integrity, and consistency through data cleaning, feature engineering, exploratory data analysis (EDA), and visualization.
 The analysis focuses on deriving key performance indicators (KPIs) and generating actionable business insights by addressing critical questions, including:
 
@@ -22,14 +23,18 @@ KPI/Questions:
 5. Discover which hashtags are most frequently associated with viral videos and how they contribute to content success.
 
 Process:
+
 1. Define Objective
+   
 Frame business-driven questions around content performance, engagement predictors, and hashtag effectiveness.
 
 2. Data Collection
+   
 Source: YouTube Dataset from Kaggle (17,590 rows, CSV format).
 Imported into Python for exploration and analysis.
 
 3. Data Cleaning & Preparation
+
 Removed irrelevant columns (url, description).
 Handled missing values (e.g., replaced empty hashtags with "No Hashtags").
 Checked and removed duplicates.
@@ -38,6 +43,7 @@ Performed sanity checks (no negative/invalid values for views, likes, comments, 
 Outlier detection and treatment: applied log transformations for skewed metrics.
 
 4. Feature Engineering
+
 Created new fields:
 engagement_rate = (likes + comments) / views
 duration_category (Short, Medium, Long, Very Long)
@@ -46,12 +52,14 @@ has_hashtags (binary flag)
 is_viral (top 5% videos by views)
 
 5. Exploratory Data Analysis (EDA)
+
 Univariate Analysis: Histograms, boxplots, countplots for numeric & categorical features.
 Bivariate Analysis: Scatterplots, heatmaps, grouped averages (views/engagement by category, duration, resolution).
 Segmentation: Comparison across hashtags, categories, and viral vs non-viral videos.
 Correlation Analysis: Identified relationships among numeric features.
 
 6. Data Visualization & Insights
+   
 Barplots, scatterplots, and heatmaps tied directly to business questions:
 Category-level performance (views, engagement).
 Impact of duration & resolution on engagement.
@@ -59,17 +67,20 @@ Hashtag effectiveness.
 Viral vs non-viral content patterns.
 
 7. Reporting & Communication
+   
 Summarized workflow from objective → data → cleaning → analysis → insights.
 Created an Executive Summary with key findings and business recommendations.
 Highlighted stakeholders (creators, marketers, YouTube platform, advertisers).
 
 8. Future Work / Next Steps
+   
 Add time-based trend analysis (if upload date is available).
 Apply text analytics (NLP) on titles/hashtags for deeper insights.
 Build an interactive dashboard (Power BI/Tableau).
 Extend into predictive modeling for video virality (optional).
 
 Insights:
+
 Content Categories
 Gaming and Comedy videos dominate in views, while Education videos achieve higher engagement rates.
 Some categories (e.g., News, People & Blogs) show underperformance in both reach and engagement.
@@ -96,6 +107,7 @@ Viral videos (~5% of dataset) achieve exponentially higher reach compared to the
 They cluster in categories like Gaming and Entertainment, and frequently leverage hashtags.
 
 Conclusion:
+
 This project successfully transformed raw YouTube video data (17,590 rows) into a cleaned, structured, and insight-rich dataset through Python-based exploration, cleaning, feature engineering, and visualization.
 
 The analysis revealed that
