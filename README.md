@@ -45,11 +45,11 @@ Outlier detection and treatment: applied log transformations for skewed metrics.
 4. Feature Engineering
 
 Created new fields:
-engagement_rate = (likes + comments) / views
-duration_category (Short, Medium, Long, Very Long)
-resolution (mapped from video height/width)
-has_hashtags (binary flag)
-is_viral (top 5% videos by views)
+engagement_rate = (likes + comments) / views,
+duration_category (Short, Medium, Long, Very Long),
+resolution (mapped from video height/width),
+has_hashtags (binary flag),
+is_viral (top 5% videos by views).
 
 5. Exploratory Data Analysis (EDA)
 
@@ -81,7 +81,7 @@ Extend into predictive modeling for video virality (optional).
 
 Insights:
 
-Content Categories
+Content Categories:
 Gaming and Comedy videos dominate in views, while Education videos achieve higher engagement rates.
 Some categories (e.g., News, People & Blogs) show underperformance in both reach and engagement.
 
