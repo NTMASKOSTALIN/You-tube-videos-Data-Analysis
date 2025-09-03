@@ -15,6 +15,11 @@ The ultimate goal is to transform raw YouTube metadata into a cleaned, structure
 
 Dataset:
 
+- <a href="https://github.com/NTMASKOSTALIN/Pizza-Sales-Analysis/blob/main/pizzas.csv"> You tube videos dataset
+- <a href="https://docs.google.com/spreadsheets/d/1m5cTXE2Eiv_70_k4PXVUIKuuF_pWfhD9B9u84NWrF10/edit?gid=925059109#gid=925059109"> Cleaned You tube videos dataset
+- <a href=""> You tube video dataset Project 
+
+
 KPI/Questions:
 1. Identify which video categories (e.g., Gaming, Comedy, News) receive the highest engagement in terms of views, likes, and comments.
 2. Evaluate whether video duration or resolution influences engagement metrics.
