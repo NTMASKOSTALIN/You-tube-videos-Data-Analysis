@@ -69,10 +69,39 @@ Apply text analytics (NLP) on titles/hashtags for deeper insights.
 Build an interactive dashboard (Power BI/Tableau).
 Extend into predictive modeling for video virality (optional).
 
-Executive Summary
-Categories: Gaming & Comedy dominate in views, but Education has stronger engagement efficiency.
-Duration: Medium-length videos (4–10 minutes) perform best for engagement.
-Resolution: HD videos (720p/1080p) yield slightly higher engagement than low-quality formats.
-Predictors: Likes and Comments are the strongest indicators of video success.
-Hashtags: Videos with hashtags consistently achieve higher engagement; most viral videos use them.
-Viral Content: A small share of videos goes viral, but these drive massive spikes in reach and engagement.
+Insights:
+Content Categories
+Gaming and Comedy videos dominate in views, while Education videos achieve higher engagement rates.
+Some categories (e.g., News, People & Blogs) show underperformance in both reach and engagement.
+
+Video Duration
+Medium-length videos (4–10 minutes) strike the best balance of views and engagement.
+Very short or very long videos tend to underperform compared to medium-length content.
+
+Resolution
+Higher resolutions (720p, 1080p) yield slightly better engagement than lower resolutions (240p, 360p).
+Extremely high resolutions (4K) are rare and not significantly different in engagement.
+
+Engagement Predictors
+Likes and Comments are strongly correlated with Views → best predictors of video popularity.
+Duration shows weak correlation with views or engagement beyond the medium-length optimization.
+Bitrate and frame rate have negligible impact on engagement.
+
+Hashtag Effectiveness
+Videos with hashtags consistently achieve higher views and engagement rates compared to those without.
+Most viral videos include hashtags, and certain trending hashtags are strongly linked to viral content.
+
+Viral vs Non-Viral
+Viral videos (~5% of dataset) achieve exponentially higher reach compared to the rest.
+They cluster in categories like Gaming and Entertainment, and frequently leverage hashtags.
+
+Conclusion:
+This project successfully transformed raw YouTube video data (17,590 rows) into a cleaned, structured, and insight-rich dataset through Python-based exploration, cleaning, feature engineering, and visualization.
+
+The analysis revealed that
+Gaming and Comedy dominate in reach, while Education excels in engagement.
+Medium-length videos (4–10 minutes) drive the strongest engagement.
+Hashtags significantly enhance performance and are common in viral content.
+Likes and Comments are the most reliable predictors of video popularity.
+These findings provide actionable guidance for content creators, marketers, platform managers, and advertisers to optimize strategies around content categories, duration, resolution, and hashtag usage.
+Overall, the project demonstrates how structured data analysis can convert raw metadata into business intelligence that supports data-driven decision-making.
