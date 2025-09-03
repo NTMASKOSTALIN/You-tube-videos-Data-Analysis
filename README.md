@@ -81,6 +81,25 @@ Highlighted stakeholders (creators, marketers, YouTube platform, advertisers).
    
 Future extensions could include time-based analysis, interactive dashboards, and text analytics on hashtags/titles.
 
+Dashboard:
+<img width="600" height="593" alt="image" src="https://github.com/user-attachments/assets/ee15e062-47cb-470c-8f7e-b1f973642d77" />
+<img width="588" height="593" alt="image" src="https://github.com/user-attachments/assets/795296e8-aecb-498c-9cde-74a516793f0c" />
+<img width="579" height="593" alt="image" src="https://github.com/user-attachments/assets/02039cef-0cf0-4ba7-b0d0-473139cfe315" />
+<img width="586" height="458" alt="image" src="https://github.com/user-attachments/assets/029d2642-b0d4-45ba-8c30-1a521127f3d9" />
+<img width="603" height="458" alt="image" src="https://github.com/user-attachments/assets/52666fc0-162a-4bf4-ac78-1facef3fa995" />
+<img width="588" height="529" alt="image" src="https://github.com/user-attachments/assets/17e98dd3-90db-4b4b-b701-3ef0f6475003" />
+<img width="566" height="457" alt="image" src="https://github.com/user-attachments/assets/21c4efa4-a49d-4e68-968c-b8fa772e91d6" />
+<img width="567" height="457" alt="image" src="https://github.com/user-attachments/assets/58f6939c-19e8-4bc0-9a2d-787d1dd69088" />
+<img width="567" height="457" alt="image" src="https://github.com/user-attachments/assets/9288c663-462e-498a-b3ea-104a0246d4d9" />
+<img width="737" height="635" alt="image" src="https://github.com/user-attachments/assets/156a5260-e1e7-4659-b775-070a586b4afd" />
+<img width="583" height="593" alt="image" src="https://github.com/user-attachments/assets/689fcedd-f682-4213-8069-25e132e4f8ea" />
+<img width="583" height="529" alt="image" src="https://github.com/user-attachments/assets/515e0a00-0c84-4f14-b465-2a18a73b5062" />
+<img width="592" height="458" alt="image" src="https://github.com/user-attachments/assets/a929bb5c-ebb1-4c6d-9485-d071b91e28cd" />
+<img width="600" height="458" alt="image" src="https://github.com/user-attachments/assets/70240a18-5c33-410c-96cf-fd0429046ae1" />
+<img width="588" height="458" alt="image" src="https://github.com/user-attachments/assets/abd6a752-d9b1-470a-89c8-4becb645418d" />
+<img width="592" height="457" alt="image" src="https://github.com/user-attachments/assets/fc574d4e-6ad8-4f24-a710-dc51ec75ec41" />
+<img width="595" height="437" alt="image" src="https://github.com/user-attachments/assets/4b71f774-1f18-4512-9130-97e969bab872" />
+
 Insights:
 
 Content Categories:
